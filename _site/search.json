@@ -9,8 +9,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PersonalWebsiteFinal",
+    "title": "Daniel Oh",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.19588833 0.67365842 0.25382826 0.50595155 0.24605230 0.47815608\n [7] 0.51524768 0.08636339 0.31047703 0.93452585\n\nrnorm(10)\n\n [1]  0.58369015  0.69442680  0.86735399  0.61187137  0.33752749 -0.81132140\n [7] -0.21560647 -0.93521440 -0.09043313  0.65092247\n\n\n\nx = 10\nprint(x)\n\n[1] 10\n\nx = 15 \nprint(x)\n\n[1] 15"
+    "text": "Daniel Oh is a fourth-year Statistics and Data Science student at UCLA. When not analyzing data and conducting research, he enjoys beat-making and playing the drums! Download My CV"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Daniel Oh",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics and Data Science | Sept 2023 - July 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Daniel Oh",
+    "section": "Experience",
+    "text": "Experience\nCedars-Sinai Biocomputation Lab | Research Associate | June 2023 - present\nRoyal Brisbane & Women’s Hospital, Australia | Research Associate | June 2023 - March 2025"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Endodontic Education & Feedback App\n\n\n\nApp Interface\n\n\nDeveloped an iOS application that assists dental students and professionals in periodontal charting and treatment planning. Built using Swift, the app streamlines workflow and enhances accuracy in clinical documentation.\n- Designed an intuitive user interface for efficient data entry.\n- Implemented real-time feedback to improve treatment assessment.\n- Successfully used in local dental clinics, receiving positive feedback from practitioners.\n\n\n\nSingle-Cell & Spatial Transcriptomics Research\n\n\n\nSingle-Cell Analysis\n\n\nAs a researcher in Dr. Won’s lab, I focus on single-cell analysis and spatial transcriptomics to uncover insights into cellular behavior.\n- Analyzing SeqFISH and 10X Visium datasets to explore gene expression patterns.\n- Developing computational workflows to study cell polarity and interactions in tissue samples.\n- Implementing ChIP-seq analysis using Bowtie2 and MACS2 for peak calling.\n\n\n\nVesalius: Spatial Transcriptomics Visualization\n\n\n\nVesalius Package\n\n\nContributed to the Vesalius R package, an open-source toolkit for processing and visualizing spatial transcriptomics data.\n- Created vignettes for processing 10X Visium datasets.\n- Assisted in integrating visualization techniques to better understand cellular organization.\n- Aiding researchers in using Vesalius for biomedical analysis."
   }
 ]

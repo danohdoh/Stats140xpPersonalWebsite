@@ -1,24 +1,27 @@
 ---
-title: "PersonalWebsiteFinal"
+title: "Daniel Oh"
+about:
+  template: broadside
+  image: profilepic.JPG
+  links:
+
+    - icon: github
+      text: Github
+      href: https://github.com/danohdoh
+    - text: Email
+      url: "mailto:danohdoh@ucla.edu"
 ---
 
-This is a Quarto website.
+Daniel Oh is a fourth-year Statistics and Data Science student at UCLA. When not analyzing data and conducting research, he enjoys beat-making and playing the drums! 
+Download [My CV](/Daniel Oh - Resume.pdf)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA
+B.S in Statistics and Data Science | Sept 2023 - July 2025
 
-```{r}
-runif(10)
-rnorm(10)
-```
+## Experience
 
-```{r}
-x = 10
-print(x)
+Cedars-Sinai Biocomputation Lab | Research Associate | June 2023 - present
 
-x = 15 
-print(x)
-```
+Royal Brisbane & Women's Hospital, Australia | Research Associate | June 2023 - March 2025 

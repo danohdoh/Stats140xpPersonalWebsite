@@ -1,0 +1,36 @@
+--- 
+title: "Projects"
+---
+
+### Endodontic Education & Feedback App
+
+![App Interface](perio.jpg)
+
+Developed an **iOS application** that assists **dental students and professionals** in periodontal charting and treatment planning. Built using **Swift**, the app streamlines workflow and enhances accuracy in clinical documentation.  
+- Designed an intuitive **user interface** for efficient data entry.  
+- Implemented **real-time feedback** to improve treatment assessment.  
+- Successfully used in local **dental clinics**, receiving positive feedback from practitioners.  
+
+---
+
+### Single-Cell & Spatial Transcriptomics Research
+
+![Single-Cell Analysis](singlecell.png)
+
+As a researcher in **Dr. Won’s lab**, I focus on **single-cell analysis and spatial transcriptomics** to uncover insights into cellular behavior.  
+- Analyzing **SeqFISH** and **10X Visium** datasets to explore gene expression patterns.  
+- Developing **computational workflows** to study **cell polarity** and interactions in tissue samples.  
+- Implementing **ChIP-seq analysis** using **Bowtie2** and **MACS2** for peak calling.  
+---
+
+### Vesalius: Spatial Transcriptomics Visualization
+
+![Vesalius Package](spatial.png)
+
+Contributed to the **Vesalius** R package, an **open-source toolkit** for processing and visualizing **spatial transcriptomics data**.  
+- Created **vignettes** for processing **10X Visium datasets**.  
+- Assisted in integrating visualization techniques to better understand **cellular organization**.  
+- Aiding researchers in using **Vesalius** for biomedical analysis.  
+
+---
+
