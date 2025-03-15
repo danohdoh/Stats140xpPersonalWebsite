@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "PersonalWebsiteFinal",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.2504604 0.3686427 0.4752026 0.3519823 0.1186502 0.8819634 0.3548070\n [8] 0.6708400 0.3443556 0.1050377\n\nrnorm(10)\n\n [1] -0.8500613  0.9009306 -0.2196878 -1.6405739 -1.1245425  1.2382973\n [7]  1.1105510 -1.4439051  0.4074632  0.3901632\n\n\n\nx = 10\nprint(x)\n\n[1] 10"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.19588833 0.67365842 0.25382826 0.50595155 0.24605230 0.47815608\n [7] 0.51524768 0.08636339 0.31047703 0.93452585\n\nrnorm(10)\n\n [1]  0.58369015  0.69442680  0.86735399  0.61187137  0.33752749 -0.81132140\n [7] -0.21560647 -0.93521440 -0.09043313  0.65092247\n\n\n\nx = 10\nprint(x)\n\n[1] 10\n\nx = 15 \nprint(x)\n\n[1] 15"
   }
 ]
